@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FuriousLibs</string>
+
+    <string name="madlib_1">Here are some facts about %1$s: %2$s is %3$s, %2$s likes %4$s, and %2$s wants to be a %5$s when %2$s grows up.</string>
+</resources>
